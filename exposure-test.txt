@@ -1,0 +1,9 @@
+SECURITY VALIDATION DATA - NON-PRODUCTION
+
+Organization: Van Wijnen
+Test ID: VW-CP-EXPOSURE-2026-001
+Test contact: TestDinoS@vanwijnen.nl
+Synthetic username: TestDinoS@vanwijnen.nl
+Synthetic password: NOT-A-REAL-PASSWORD-VW-CP-2026-001
+
+This data is fictitious, non-production and cannot be used to access any system.
